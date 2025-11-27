@@ -1,0 +1,14 @@
+[
+  {
+    "file": "sample_1.png",
+    "prompt": "a futuristic city at sunset, highly detailed, cinematic lighting",
+    "style": "Artistic / Painting",
+    "negative_prompt": "low quality, blurry, distorted, extra limbs"
+  },
+  {
+    "file": "sample_2.png",
+    "prompt": "a walking almirah of brown color on a road, cartoon style",
+    "style": "Cartoon / Anime",
+    "negative_prompt": "low quality, blurry, distorted, extra limbs"
+  }
+]

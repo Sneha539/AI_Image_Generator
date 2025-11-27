@@ -1,0 +1,19 @@
+{
+  "model_name": "runwayml/stable-diffusion-v1-5",
+  "framework": "PyTorch + diffusers",
+  "scheduler": "Default StableDiffusionPipeline scheduler",
+  "image_size": {
+    "default_height": 512,
+    "default_width": 512
+  },
+  "default_generation_params": {
+    "num_inference_steps": 30,
+    "guidance_scale": 7.5,
+    "num_images": 1
+  },
+  "safety": {
+    "safety_checker": "disabled in pipeline",
+    "manual_filtering": "keyword-based prompt filter in utils.py",
+    "watermark": "visible 'AI GENERATED' label via Pillow"
+  }
+}

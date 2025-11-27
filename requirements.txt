@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+safetensors
+Pillow
+streamlit
+python-dotenv
+tqdm
