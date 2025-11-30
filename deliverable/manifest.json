@@ -1,0 +1,101 @@
+[
+  {
+    "file": "article1/coastal_wide.jpg",
+    "article": 1,
+    "title": "Coastal village affected by rising sea levels — wide environmental view",
+    "prompt": "A high-resolution, photorealistic image of a coastal village at sunset where water laps at the foundations of simple houses; a family stands on a raised wooden platform watching rising sea levels, emotional expressions, warm golden light, wet reflective surfaces, detailed skin tones, cinematic composition, 8k, ultra realistic, depth of field, ultra realistic, 8k, professional photography, sharp focus, high dynamic range",
+    "negative_prompt": "low quality, blurry, deformed limbs, extra fingers, watermark, text, cartoon",
+    "steps": 30,
+    "guidance": 8.0,
+    "size": "768x512",
+    "notes": "Wide environmental view — no people in this version"
+  },
+  {
+    "file": "article1/coastal_family.jpg",
+    "article": 1,
+    "title": "Renewable energy in rural communities / solar electrification",
+    "prompt": "Photorealistic scene of a small African village at sunrise with rooftop solar panels and children studying under electric lights inside a classroom; smiling teacher, solar microgrid battery unit in the background, warm morning colors, high detail, 4k, documentary photography style\n, ultra realistic, 8k, professional photography, sharp focus, high dynamic range",
+    "negative_prompt": "blurry, distorted faces, extra limbs, cartoonish, text, watermark",
+    "steps": 30,
+    "guidance": 8.5,
+    "size": "768x512",
+    "notes": "Human-centered narrative image for Article 1"
+  },
+  {
+    "file": "article1/offshore_wind.jpg",
+    "article": 1,
+    "title": "Offshore wind farm with maintenance vessel — renewable energy transition",
+    "prompt": "A photorealistic offshore wind farm at sunrise with multiple turbines arranged naturally; a yellow maintenance ship in the foreground with technicians in safety gear, realistic reflections on the ocean, dramatic clouds, sense of scale, cinematic 8k realism",
+    "negative_prompt": "duplicate turbines, warped blades, floating objects, surreal elements, cartoon",
+    "steps": 35,
+    "guidance": 8.0,
+    "size": "768x512",
+    "notes": "Symbolizes renewable energy infrastructure and operation"
+  },
+  {
+    "file": "article2/protest_wide.jpg",
+    "article": 2,
+    "title": "Mass youth-led protest crossing a city bridge — collective mobilization",
+    "prompt": "Ultra-realistic, high-resolution image of a densely packed youth protest crossing a large city bridge (daytime); protest signs, diverse faces, banners waving, documentary photo style, depth of field, 4k cinematic",
+    "negative_prompt": "gore, explicit violence, faces severely deformed, extra limbs, text overlays",
+    "steps": 35,
+    "guidance": 8.0,
+    "size": "768x512",
+    "notes": "Wide crowd image to represent mass mobilization"
+  },
+  {
+    "file": "article2/portrait_activist.jpg",
+    "article": 2,
+    "title": "Portrait of a young activist — personal cost of protest",
+    "prompt": "Hyper-realistic close-up portrait of a young activist with protest face paint and a slight tear, determined eyes, soft dramatic lighting, shallow depth of field, highly detailed skin texture, editorial photograph",
+    "negative_prompt": "blur, low detail, cartoon, gore",
+    "steps": 35,
+    "guidance": 8.0,
+    "size": "768x512",
+    "notes": "Emotional portrait capturing the personal impact of activism"
+  },
+  {
+    "file": "article2/candle_vigil.jpg",
+    "article": 2,
+    "title": "Youth candlelight vigil — peaceful solidarity and reflection",
+    "prompt": "High-resolution image of an evening candlelight vigil with young activists holding candles, soft warm glows, reflective faces, somber mood, cinematic bokeh, high detail, photorealistic",
+    "negative_prompt": "blurry, noisy, gore, chaotic background",
+    "steps": 35,
+    "guidance": 8.0,
+    "size": "768x512",
+    "notes": "Peaceful solidarity scene"
+  },
+  {
+    "file": "article3/ai_hand_mesh.jpg",
+    "article": 3,
+    "title": "Human face with digital mesh overlay — identity & AI reconstruction",
+    "prompt": "A photorealistic portrait of a person looking into the camera, with half of their face subtly transitioning into a digital wireframe or holographic mesh. Soft lighting, clean minimal background, detailed skin texture, gentle AI augmentation effects that symbolize the blending of human identity with artificial intelligence.",
+    "negative_prompt": "distorted faces, melted features, multiple eyes, duplicated noses, horror effects, surreal deformities",
+    "steps": 35,
+    "guidance": 8.0,
+    "size": "768x768",
+    "notes": "Symbolic representation of identity and AI reconstruction"
+  },
+  {
+    "file": "article3/ai_network_on_device.jpg",
+    "article": 3,
+    "title": "Hand holding device with neural network cloud — AI-assisted creativity",
+    "prompt": "A hyper-realistic image of a human hand and an advanced robotic hand touching fingertips, with a glowing AI neural-network pattern forming between them; dramatic lighting, futuristic laboratory background, sharp reflections on the robotic metal, air particles illuminated by blue and white lights, symbolic composition showing the merging of humanity and artificial intelligence., ultra realistic, 8k, professional photography, sharp focus, high dynamic range",
+    "negative_prompt": "cartoon, plastic hands, mannequin, melted fingers, deformed joints, blurry hologram, messy patterns, abstract backgrounds, floating disembodied hands",
+    "steps": 35,
+    "guidance": 8.0,
+    "size": "768x512",
+    "notes": "Symbolic, editorial depiction of AI assisting creativity"
+  },
+  {
+    "file": "article3/ai_collab_tablet.jpg",
+    "article": 3,
+    "title": "Person using a tablet with AI-assisted UI — Human AI collaboration",
+    "prompt": "A photorealistic image of a person working on a digital tablet, with a softly glowing layer of AI-generated elements appearing above the screen. The AI augmentation looks like subtle holographic shapes, light neural-network lines, or floating translucent icons that represent creative suggestions. Minimalistic modern workspace, soft lighting, focus on human hand and UI.",
+    "negative_prompt": "many monitors, chaotic screens, distorted hands, broken text, surreal elements, heavy holograms",
+    "steps": 35,
+    "guidance": 8.0,
+    "size": "768x768",
+    "notes": "Controlled Human AI collaboration scene"
+  }
+]
